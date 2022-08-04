@@ -94,27 +94,27 @@ body {
   }
   
   .section1 {
-    background-image: url('../images/hospital.jpg');
+    background-image: url('../img/hospital.jpg');
   }
   
   .section2 {
-    background-image: url('../images/hotel.jpg');
+    background-image: url('../img/hotel.jpg');
   }
   
   .section3 {
-    background-image: url('../images/house-cleaning.jpg');
+    background-image: url('../img/house-cleaning.jpg');
   }
   
   .section4 {
-    background-image: url('../images/end-of-tenancy.png');
+    background-image: url('../img/end-of-tenancy.png');
   }
   
   .section5 {
-    background-image: url('../images/oven-cleaning.png');
+    background-image: url('../img/oven-cleaning.png');
   }
   
   .section6 {
-    background-image: url('../images/hand-washing.jpg');
+    background-image: url('../img/hand-washing.jpg');
   }
   
   h2 {
